@@ -5,7 +5,7 @@
     "description": "Floral Print Fit & Flare Dress",
     "oldPrice": 1999,
     "newPrice": 1399,
-    "image": "assets/women-dress1.jpg"
+    "image": "https://kishan80090.github.io/jsondata/pictures/women20.jpg"
   },
   {
     "id": 18,
@@ -13,7 +13,7 @@
     "description": "Printed Straight Cotton Kurti",
     "oldPrice": 1499,
     "newPrice": 999,
-    "image": "assets/women-kurti1.jpg"
+    "image": "https://kishan80090.github.io/jsondata/pictures/women21.jpg"
   },
   {
     "id": 19,
@@ -21,7 +21,7 @@
     "description": "Stylish Leather Shoulder Bag",
     "oldPrice": 2499,
     "newPrice": 1799,
-    "image": "assets/women-bag1.jpg"
+    "image": "https://kishan80090.github.io/jsondata/pictures/women22.jpg"
   },
   {
     "id": 20,
@@ -29,7 +29,7 @@
     "description": "Comfortable Block Heel Sandals",
     "oldPrice": 1599,
     "newPrice": 1099,
-    "image": "assets/women-sandal1.jpg"
+    "image": "https://kishan80090.github.io/jsondata/pictures/women23.jpg"
   },
   {
     "id": 21,
@@ -37,7 +37,7 @@
     "description": "Solid Casual Round Neck Top",
     "oldPrice": 999,
     "newPrice": 699,
-    "image": "assets/women-top1.jpg"
+    "image": "https://kishan80090.github.io/jsondata/pictures/women24.jpg"
   },
   {
     "id": 22,
@@ -45,7 +45,7 @@
     "description": "High Rise Skinny Fit Jeans",
     "oldPrice": 2199,
     "newPrice": 1599,
-    "image": "assets/women-jeans1.jpg"
+    "image": "https://kishan80090.github.io/jsondata/pictures/women25.jpg"
   },
   {
     "id": 23,
@@ -53,7 +53,7 @@
     "description": "Elegant Analog Wrist Watch",
     "oldPrice": 2999,
     "newPrice": 2199,
-    "image": "assets/women-watch1.jpg"
+    "image": "https://kishan80090.github.io/jsondata/pictures/women26.jpg"
   },
   {
     "id": 24,
@@ -61,6 +61,6 @@
     "description": "Casual Hooded Sweatshirt",
     "oldPrice": 1899,
     "newPrice": 1299,
-    "image": "assets/women-hoodie1.jpg"
+    "image": "https://kishan80090.github.io/jsondata/pictures/women27.jpg"
   }
 ]
