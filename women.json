@@ -1,0 +1,66 @@
+[
+  {
+    "id": 17,
+    "name": "Women Floral Dress",
+    "description": "Floral Print Fit & Flare Dress",
+    "oldPrice": 1999,
+    "newPrice": 1399,
+    "image": "assets/women-dress1.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Women Kurti",
+    "description": "Printed Straight Cotton Kurti",
+    "oldPrice": 1499,
+    "newPrice": 999,
+    "image": "assets/women-kurti1.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Women Handbag",
+    "description": "Stylish Leather Shoulder Bag",
+    "oldPrice": 2499,
+    "newPrice": 1799,
+    "image": "assets/women-bag1.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Women Sandals",
+    "description": "Comfortable Block Heel Sandals",
+    "oldPrice": 1599,
+    "newPrice": 1099,
+    "image": "assets/women-sandal1.jpg"
+  },
+  {
+    "id": 21,
+    "name": "Women Top",
+    "description": "Solid Casual Round Neck Top",
+    "oldPrice": 999,
+    "newPrice": 699,
+    "image": "assets/women-top1.jpg"
+  },
+  {
+    "id": 22,
+    "name": "Women Jeans",
+    "description": "High Rise Skinny Fit Jeans",
+    "oldPrice": 2199,
+    "newPrice": 1599,
+    "image": "assets/women-jeans1.jpg"
+  },
+  {
+    "id": 23,
+    "name": "Women Watch",
+    "description": "Elegant Analog Wrist Watch",
+    "oldPrice": 2999,
+    "newPrice": 2199,
+    "image": "assets/women-watch1.jpg"
+  },
+  {
+    "id": 24,
+    "name": "Women Hoodie",
+    "description": "Casual Hooded Sweatshirt",
+    "oldPrice": 1899,
+    "newPrice": 1299,
+    "image": "assets/women-hoodie1.jpg"
+  }
+]
