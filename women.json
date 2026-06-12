@@ -62,5 +62,69 @@
     "oldPrice": 1899,
     "newPrice": 1299,
     "image": "https://kishan80090.github.io/jsondata/pictures/women27.jpg"
-  }
+  },
+  {
+  "id": 25,
+  "name": "Women Black Lace Dress",
+  "description": "Elegant Black Lace High-Low Dress with Sleeveless Design, Perfect for Party and Evening Wear.",
+  "oldPrice": 2499,
+  "newPrice": 1799,
+  "image": "https://kishan80090.github.io/jsondata/pictures/flak1.jpg"
+},
+{
+  "id": 26,
+  "name": "Women Floral Party Dress",
+  "description": "Stylish Floral Print Dress with Comfortable Fit for Casual and Party Wear.",
+  "oldPrice": 2299,
+  "newPrice": 1599,
+  "image": "https://kishan80090.github.io/jsondata/pictures/flak2.jpg"
+},
+{
+  "id": 27,
+  "name": "Women Elegant Midi Dress",
+  "description": "Premium Midi Dress with Modern Design and Soft Fabric.",
+  "oldPrice": 1899,
+  "newPrice": 1299,
+  "image": "https://kishan80090.github.io/jsondata/pictures/flak3.jpg"
+},
+{
+  "id": 28,
+  "name": "Women Casual Summer Dress",
+  "description": "Lightweight Casual Dress Perfect for Daily Wear and Outings.",
+  "oldPrice": 2199,
+  "newPrice": 1499,
+  "image": "https://kishan80090.github.io/jsondata/pictures/flak4.jpg"
+},
+{
+  "id": 29,
+  "name": "Women High-Low Dress",
+  "description": "Fashionable High-Low Hem Dress for Special Occasions.",
+  "oldPrice": 1799,
+  "newPrice": 1199,
+  "image": "https://kishan80090.github.io/jsondata/pictures/flak5.jpg"
+},
+{
+  "id": 30,
+  "name": "Women Sleeveless Dress",
+  "description": "Trendy Sleeveless Dress with Elegant Styling.",
+  "oldPrice": 1199,
+  "newPrice": 799,
+  "image": "https://kishan80090.github.io/jsondata/pictures/flak6.jpg"
+},
+{
+  "id": 31,
+  "name": "Women Party Wear Dress",
+  "description": "Premium Party Wear Dress with Attractive Design.",
+  "oldPrice": 3299,
+  "newPrice": 2399,
+  "image": "https://kishan80090.github.io/jsondata/pictures/flak7.jpg"
+},
+{
+  "id": 32,
+  "name": "Women Designer Dress",
+  "description": "Stylish Designer Dress for Parties, Events and Celebrations.",
+  "oldPrice": 1999,
+  "newPrice": 1399,
+  "image": "https://kishan80090.github.io/jsondata/pictures/flak8.jpg"
+}
 ]
